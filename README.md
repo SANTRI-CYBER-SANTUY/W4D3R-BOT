@@ -22,9 +22,9 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/KurrXd/kurr-X-trash
-> cd kurr-X-trash
-> npm i
+> git clone https://github.com/santri-cyber-santuy/W4D3R-BOT
+> cd W4D3R-BOT
+> npm install
 ```
 ### For termux users before running the above command write this command
 ```bash
@@ -49,7 +49,7 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6281220670449)
+- [WHATSAPP](http://wa.me/6288215393438)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EymjfVUattCJSGg58WPvrd)
 
 
